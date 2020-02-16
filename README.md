@@ -19,3 +19,14 @@ just clone the repositoy and run the index.php file.
 $ cd C:\xampp\htdocs\ASCII-shapes-of-stars-and-trees>
 $ php index.php
 ```
+
+
+
+### TODO
+
+- include the unittest lib and add unittest
+
+```sh
+$ composer require --dev phpunit/phpunit ^7
+```
+
